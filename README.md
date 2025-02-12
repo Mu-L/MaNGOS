@@ -57,7 +57,6 @@ The overall plan is that all three sub-projects Mangos, MangosVB and Mangos# wil
 We also have a couple of Utility repositories as well
 
 * [**MangosCMS**](https://github.com/mangoscms/) - A CMS for Mangos
-* [**MangosExtras**](https://github.com/MangosExtras/) - For Localised Mangos content
 * [**Mangos Tools**](https://github.com/mangostools/) - For General MaNGOS Tools and Utilities
 
 
